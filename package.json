@@ -24,6 +24,9 @@
     "@nestjs/core": "^10.0.0",
     "@nestjs/platform-express": "^10.0.0",
     "docusign-esign": "^6.5.1",
+    "docxtemplater": "^3.44.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.8.1"
   },
